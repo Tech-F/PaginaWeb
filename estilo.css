@@ -1,3 +1,21 @@
 *{
-margin
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+front-family: 'Open Sans';
+}
+.contenido{
+max-width: 110px;
+width: 100%;
+margin: 40px auto;
+display: flex;
+}
+.mostrador{
+width: 100%;
+transition:.5s ease;
+}
+.mostrador .fila{
+display: flex;
+justify-content: space-between;
+margin-bottom: 40px;
 }
