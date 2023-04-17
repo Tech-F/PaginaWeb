@@ -5,7 +5,7 @@ box-sizing: border-box;
 front-family: 'Open Sans';
 }
 .contenido{
-max-width: 110px;
+max-width: 1100px;
 width: 100%;
 margin: 40px auto;
 display: flex;
@@ -18,4 +18,18 @@ transition:.5s ease;
 display: flex;
 justify-content: space-between;
 margin-bottom: 40px;
+}
+.mostrador .fila .item{
+max-width: 210px;
+padding: 30px;
+height: 250px;
+text-align: center;
+margin: 0 10px;
+cursor: pointer;
+border-radius: 5px;
+transition: .3s;
+}
+.mostrador.fila .item img{
+width: 100%;
+
 }
