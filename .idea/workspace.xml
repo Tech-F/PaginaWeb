@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c92ba890-4976-46d6-9da3-66f697ecad41" name="Changes" comment="Imagenes adaptadas en tamaño">
+      <change afterPath="$PROJECT_DIR$/ContactoCarpeta/Contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fotos/Dec-14@23.6.30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaginaGods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaginaGods/Gods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaginaGods/GodsStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaginaPrincipalCarpeta/PaginaPrincipal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaginaPrincipalCarpeta/PaginaPrincipal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML File.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML File.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaginaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PaginaWeb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilo.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,20 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;Z:/Linguaxe de marcas e sistemas xestores de información/PaginaWeb/Fotos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/Cole/Linguaxe de marcas/PaginaWeb",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="Z:\Linguaxe de marcas e sistemas xestores de información\PaginaWeb\Fotos" />
       <recent name="Z:\Linguaxe de marcas e sistemas xestores de información\PaginaWeb\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Cole\Linguaxe de marcas\PaginaWeb\PaginaPrincipalCarpeta" />
+      <recent name="F:\Cole\Linguaxe de marcas\PaginaWeb" />
+      <recent name="F:\Cole\Linguaxe de marcas\PaginaWeb\Fotos" />
       <recent name="Z:\Linguaxe de marcas e sistemas xestores de información\PaginaWeb\Fotos" />
     </key>
   </component>
